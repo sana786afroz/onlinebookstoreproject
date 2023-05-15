@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8158bc79.css",
+    "main.js": "/static/js/main.49ee4069.js",
+    "static/media/cover_not_found.jpg": "/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/bookreader.jpg": "/static/media/bookreader.814950c0994393b1c8e2.jpg",
+    "static/media/about-img.jpg": "/static/media/about-img.b7521da541400a1eefdb.jpg",
+    "static/media/mylogo.png": "/static/media/mylogo.43234439203f3a04d929.png",
+    "index.html": "/index.html",
+    "static/media/loader.svg": "/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
+    "main.8158bc79.css.map": "/static/css/main.8158bc79.css.map",
+    "main.49ee4069.js.map": "/static/js/main.49ee4069.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8158bc79.css",
+    "static/js/main.49ee4069.js"
+  ]
+}

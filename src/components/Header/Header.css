@@ -1,0 +1,19 @@
+.header-content{
+    min-height: 75vh;
+    background: linear-gradient(rgba(226, 212, 124, 0.271), rgba(227, 112, 40, 0.5)), url("../../images/bookreader.jpg") center/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    font-size: 6rem;
+    color: rgb(8, 1, 15);
+    margin-top: 19rem;
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    font-size: 4rem;
+    font-weight: 500;
+    max-width: 770px;
+    color: rgb(16, 10, 1);
+}
